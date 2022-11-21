@@ -1,0 +1,16 @@
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\bin\Debug\CSMusicPlayer.exe.config
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\bin\Debug\CSMusicPlayer.exe
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\bin\Debug\CSMusicPlayer.pdb
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.MusicPlayer.resources
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.Properties.Resources.resources
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.GenerateResource.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.exe
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.pdb
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\CSMusicPlayer\obj\Debug\CSMusicPlayer.csproj.ResolveComReference.cache
